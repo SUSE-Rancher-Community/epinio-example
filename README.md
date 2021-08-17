@@ -1,7 +1,5 @@
 # Epinio Example
 
-NOTE: due to a current bug doing this example on Windows using WSL2 will not work.
-
 ## Prerequisites
 
 These are all the components needed to start this challenge. Epinio is also needed but we will be installing that in the next section.
